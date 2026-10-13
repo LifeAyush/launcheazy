@@ -2,39 +2,21 @@
 
 Waitlist page for Launcheazy.
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Live site: https://launcheasy-assignment.vercel.app/
 
-## Deployed on Vercel
+![Demo](https://github.com/LifeAyush/launcheazy/raw/main/demo.gif)
 
-This project is deployed using vercel, you can check it out at [https://launcheasy-assignment.vercel.app/](https://launcheasy-assignment.vercel.app/)
+## How to run
 
-## Website Demo
-
-![](https://github.com/LifeAyush/launcheazy/blob/main/demo.gif)
-
-## Running the project on your local server
-
-First, clone the project to your local system: 
-
-```terminal
+```bash
 git clone https://github.com/LifeAyush/launcheazy.git
-```
-
-Second, install node modules:
-
-```terminal
 cd launcheazy
 npm install
-```
-
-Third, run the development server:
-
-```terminal
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open http://localhost:3000.
 
 ## License
 
-MIT License. Copyright (c) 2024 Ayush Patil.
+MIT. Copyright (c) 2024 Ayush Patil.
