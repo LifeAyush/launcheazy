@@ -1,3 +1,7 @@
+# Launcheazy
+
+Waitlist page for Launcheazy.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Deployed on Vercel
@@ -6,20 +10,20 @@ This project is deployed using vercel, you can check it out at [https://launchea
 
 ## Website Demo
 
-![](https://github.com/LifeAyush/zywa/blob/main/demo.gif)
+![](https://github.com/LifeAyush/launcheazy/blob/main/demo.gif)
 
 ## Running the project on your local server
 
 First, clone the project to your local system: 
 
 ```terminal
-git clone https://github.com/LifeAyush/launcheasy-assignment.git
+git clone https://github.com/LifeAyush/launcheazy.git
 ```
 
 Second, install node modules:
 
 ```terminal
-cd launcheasy-assignment
+cd launcheazy
 npm install
 ```
 
@@ -30,3 +34,7 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## License
+
+MIT License. Copyright (c) 2024 Ayush Patil.
